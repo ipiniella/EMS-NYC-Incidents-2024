@@ -57,7 +57,7 @@ The `.sql` file is organized into **8 sections:**
 
 ## 📊 Dataset
 
-- **Source:** [NYC Open Data](https://data.cityofnewyork.us/Public-Safety/EMS-Incident-Dispatch-Data/76xm-jjuj/about_data)
+- **Source:** https://data.cityofnewyork.us/Public-Safety/EMS-Incident-Dispatch-Data/76xm-jjuj/about_data
 - **Year:** 2024 (partial)
 - **Rows:** 968,560 incidents
 - **Columns:** 31 fields including timestamps, borough, severity, call types, and transport info
