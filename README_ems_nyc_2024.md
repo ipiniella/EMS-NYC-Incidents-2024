@@ -68,4 +68,4 @@ The `.sql` file is organized into **8 sections:**
 
 **Ivan**
 Aspiring Data Analyst
-[GitHub Profile](https://github.com/your-username)
+[GitHub Profile](https://github.com/ipiniella)
